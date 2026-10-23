@@ -59,7 +59,7 @@ Open the `.env` file and configure your base URL and database credentials:
 CI_ENVIRONMENT = development
 
 # App Settings
-app.baseURL = 'http://localhost/ngencms/'
+app.baseURL = 'http://localhost/n-gencms/'
 
 # Database Settings
 database.default.hostname = localhost
@@ -86,7 +86,7 @@ php spark db:seed AdminSeeder
 ```bash
 php spark serve
 ```
-Navigate to `http://localhost/ngencms` to view the website, or `http://localhost/ngencms/admin/login` to access the login dashboard guarded by Shield.
+Navigate to `http://localhost/n-gencms` to view the website, or `http://localhost/n-gencms/admin/login` to access the login dashboard guarded by Shield.
 
 ---
 
