@@ -4,7 +4,7 @@
 [![Framework](https://img.shields.io/badge/Framework-CodeIgniter%204.7.4-EE4326?style=for-the-badge&logo=codeigniter)](https://codeigniter.com/)
 [![Authentication](https://img.shields.io/badge/Auth-Shield%201.4.0-blue?style=for-the-badge)](https://github.com/codeigniter4/shield)
 
-[![License](https://img.shields.io/badge/license-Proprietary-lightgrey?style=for-the-badge)](#license)
+[![License](https://img.shields.io/badge/license-Proprietary-lightgrey?style=for-the-badge)](#-license)
 [![Status](https://img.shields.io/badge/Status-Active%20Development-success?style=for-the-badge)](#)
 
 
@@ -107,7 +107,11 @@ While the application preserves CodeIgniter's secure structure, core custom impl
 ---
 
 ## 📄 License
-Distributed under a **Proprietary License**. Commercial use, distribution, or modification without the express written permission of **N-Gen Design** is strictly prohibited.
+
+Distributed under a **Proprietary License**. Commercial distribution, resale, or reverse engineering of this software framework without the express written permission of **N-Gen Design** is strictly prohibited.
+
+* **Ownership:** All source code, assets, and architecture remain the intellectual property of N-Gen Design.
+* **Usage:** Licensed exclusively to the purchasing client for single-site installation only.
 
 ---
 *Developed with ❤️ by [N-Gen Design](https://ngendesign.net)*
